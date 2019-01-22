@@ -23,7 +23,7 @@ people.forEach(person => {
 });
 ```
 
-Definerer et **Array** med navnet "people" som indeholder 4 **strings**: "Jesper", "Emil", "Oliver", "Daniel"
+Definerer et **Array** ved hjælp af [ ] med navnet "people" som indeholder 4 **strings**: "Jesper", "Emil", "Oliver" og "Daniel". Elementer i et array er komma separeret.
 ```javascript
 let people = ["Jesper","Emil","Oliver","Daniel"];
 ```
