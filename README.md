@@ -1,2 +1,2 @@
-# noter-daniel
+# Noter-daniel
 Noter til min kode
