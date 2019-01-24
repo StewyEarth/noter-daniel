@@ -1,5 +1,12 @@
 # Historik
+## 24.01.2019 - 30.01.2019 **Dataservices og -integration**
 
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/02-dataservices/02-oversigt.md)
+
+Emner: JSON, API
+
+Primære lærer: Ady Moussa (amo@rts.dk)<br>
+___
 ## 24.01.2019 **Making notes in github 101.**
 
 Vi lærte hvordan man lavede man lavede notes på github via .md (Markdown) filer.
