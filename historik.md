@@ -1,7 +1,7 @@
 # Historik
 
 ## 30.01.2019 - 30.01.2019 **Advanceret CSS**
-[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/02-dataservices/03-oversigt.md)
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-css/README.md)
 
 Primære lærer: Ady Moussa (amo@rts.dk)
 ___
