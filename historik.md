@@ -1,11 +1,18 @@
 # Historik
+
+## 30.01.2019 - 30.01.2019 **Advanceret CSS**
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/02-dataservices/03-oversigt.md)
+
+Primære lærer: Ady Moussa (amo@rts.dk)
+___
+
 ## 24.01.2019 - 30.01.2019 **Dataservices og -integration**
 
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/02-dataservices/02-oversigt.md)
 
 Emner: JSON, API
 
-Primære lærer: Ady Moussa (amo@rts.dk)<br>
+Primære lærer: Ady Moussa (amo@rts.dk)
 ___
 ## 24.01.2019 **Making notes in github 101.**
 

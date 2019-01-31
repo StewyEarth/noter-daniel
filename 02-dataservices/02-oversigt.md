@@ -1,4 +1,5 @@
 # Dataservices og -integration oversigt
 
-* [fetch]()
+* JSON
+* [Fetch](https://github.com/StewyEarth/noter-daniel/blob/master/02-dataservices/fetch.md)
 * Timeouts
