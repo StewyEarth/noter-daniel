@@ -34,7 +34,7 @@ npm i
 ```
 ___
 ## Github og aflevering
-Husk ".gitignore node" på github, eller pusher den alle de mange filer i node modules
+Husk ".gitignore node" på github, ellers pusher den alle de mange filer i node modules med op.
 
 Fjern node modules når den skal afleveres via zipping
 ___
