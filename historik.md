@@ -1,5 +1,12 @@
 # Historik
 
+## 07.02.2019 - 13.02.2019 **Advanceret Frontend**
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-frontend/oversigt.md)
+
+Primære lærer: Ady Moussa (amo@rts.dk)
+___
+
+
 ## 30.01.2019 - 06.02.2019 **Advanceret CSS**
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-css/oversigt.md)
 
