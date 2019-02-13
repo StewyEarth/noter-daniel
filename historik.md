@@ -1,7 +1,13 @@
 # Historik
 
+## 07.02.2019 - 13.02.2019 **Project Organisering**
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/05-projekt-organisering/oversigt.md)
+
+Primære lærer: Brian Emilius (be@rts.dk)
+___
+
 ## 07.02.2019 - 13.02.2019 **Advanceret Frontend**
-[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-frontend/oversigt.md)
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/04-advanceret-frontend/oversigt.md)
 
 Primære lærer: Ady Moussa (amo@rts.dk)
 ___
