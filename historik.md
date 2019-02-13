@@ -1,6 +1,6 @@
 # Historik
 
-## 07.02.2019 - 13.02.2019 **Project Organisering**
+## 14.02.2019 - 27.02.2019 **Project Organisering**
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/05-projekt-organisering/oversigt.md)
 
 Primære lærer: Brian Emilius (be@rts.dk)
