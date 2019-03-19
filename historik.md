@@ -1,5 +1,16 @@
 # Historik
 
+## 13.03.2019 - 20.03.2019 **Praktisk web - repetition**
+
+Primære lærerer: Diverse vikarer 
+___
+
+## 27.02.2019 - 13.03.2019 **Praktisk web 1**
+
+Primære lærer: Ady Moussa (amo@rts.dk)
+sekundære lærer: Brian Emilius (be@rts.dk)
+___
+
 ## 14.02.2019 - 27.02.2019 **Project Organisering**
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/05-projekt-organisering/oversigt.md)
 
