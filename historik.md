@@ -1,5 +1,10 @@
 # Historik
 
+## 21.03.2019 - 29.03.2019 **Advanceret frontend del 2**
+
+Primære lærerer: Ady Moussa (amo@rts.dk)
+___
+
 ## 13.03.2019 - 20.03.2019 **Praktisk web - repetition**
 
 Primære lærerer: Diverse vikarer 
