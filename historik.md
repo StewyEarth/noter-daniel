@@ -1,5 +1,14 @@
 # Historik
 
+## 08.04.2019 - 12.04.2019 **Dataservices og integration**
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/06-dataservices/oversigt.md)
+
+Primære lærerer: Frank
+___
+## 01.04.2019 - 05.04.2019 **Praktik uge 14**
+
+Primære lærerer: Forskellige vikarer
+___
 ## 21.03.2019 - 29.03.2019 **Advanceret frontend del 2**
 
 Primære lærerer: Ady Moussa (amo@rts.dk)
