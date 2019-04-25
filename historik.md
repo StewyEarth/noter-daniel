@@ -1,5 +1,11 @@
 # Historik
 
+## 23.04.2019 - 26.04.2019 **Advanceret CSS II**
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-css/oversigt.md)
+
+Primære lærerer:  Ady Moussa (amo@rts.dk)
+___
+
 ## 08.04.2019 - 12.04.2019 **Dataservices og integration**
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/06-dataservices/oversigt.md)
 
