@@ -1,6 +1,23 @@
 # Historik
 
-## 23.04.2019 - 26.04.2019 **Advanceret CSS II**
+## 27.05.2019 - 04.06.2019 **Advanceret frontend 3**
+
+[Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-css/oversigt.md)
+
+Primære lærerer:  Ady Moussa (amo@rts.dk) & Jack Baltzer (jaba@rts.dk)
+___
+
+## 13.05.2019 - 24.05.2019 **Praktisk web 3**
+
+Primære lærerer:  Ady Moussa (amo@rts.dk)
+___
+
+## 03.05.2019 - 10.05.2019 **Programmering**
+
+Primære lærerer:  Ady Moussa (amo@rts.dk)
+___
+
+## 23.04.2019 - 02.05.2019 **Advanceret CSS II**
 [Oversigt](https://github.com/StewyEarth/noter-daniel/blob/master/03-advanceret-css/oversigt.md)
 
 Primære lærerer:  Ady Moussa (amo@rts.dk)
